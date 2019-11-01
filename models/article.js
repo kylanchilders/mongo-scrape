@@ -8,7 +8,6 @@ var MongoArticles = new Schema({
   },
   summary: {
     type: String,
-//    required: true
   },
   link: {
     type: String,
